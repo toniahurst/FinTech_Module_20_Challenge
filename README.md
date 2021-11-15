@@ -47,12 +47,10 @@ Transaction Details - Sender to Receiver
 
 # Technologies
 
-This program uses Python 3.7.10, Anaconda version 4.10.3, Visual Studio Code 1.61.0 and Streamlit, version 0.84.2. It was written on macOS Catalina 10.15.7.
-
-
+This contract was written in Solidity 0.5.0.
 
 # Usage
-To use this app, you will need to download to a computer running Streamlit. 
+To use this app, open the JointSavings.sol file and paste into the Remix IDE.
 
 # Contributors
 
