@@ -34,15 +34,15 @@ Transaction Details - Sender to Receiver
 
 ### Figure 6
 Transaction Details - Sender to Receiver
-![Fig 6 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.48.08%20PM.png)
+![Fig 6 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.48.56%20PM.png)
 
 ### Figure 7
 Transaction Details - Sender to Receiver
-![Fig 7 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.48.08%20PM.png)
+![Fig 7 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.49.58%20PM.png)
 
 ### Figure 8
 Transaction Details - Sender to Receiver
-![Fig 8 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.48.08%20PM.png)
+![Fig 8 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.51.11%20PM.png)
 
 
 # Technologies
