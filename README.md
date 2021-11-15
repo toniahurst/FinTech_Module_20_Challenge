@@ -8,39 +8,50 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 
 # Images
 ### Figure 1
-fintech_finder home screen
+
+Solidity Code
 
 ![Fig 1 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.13.57%20PM.png)
 
 ### Figure 2
 
 Using the setAccounts function
+
 ![Fig 2 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.31.10%20PM.png)
 
 ### Figure 3
-Testnet transaction screen
+
+Test the deposit function.
 
 ![Fig 3 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.33.04%20PM.png)
 
 ### Figure 4
-Validated transaction hash.
+
+Sending 1 ether as wei.
 
 ![Fig 4 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.45.59%20PM.png)
 
 ### Figure 5
-Transaction Details - Sender to Receiver
+
+Sending 10 ether as wei
+
 ![Fig 5 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.48.08%20PM.png)
 
 ### Figure 6
-Transaction Details - Sender to Receiver
+
+Sending 5 ether
+
 ![Fig 6 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.48.56%20PM.png)
 
 ### Figure 7
-Transaction Details - Sender to Receiver
+
+Withdrawing 5 ether into accountOne
 ![Fig 7 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.49.58%20PM.png)
 
 ### Figure 8
-Transaction Details - Sender to Receiver
+
+Withdrawing 10 ether into accountTwo
+
 ![Fig 8 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.51.11%20PM.png)
 
 
