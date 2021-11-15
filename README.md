@@ -13,9 +13,8 @@ fintech_finder home screen
 ![Fig 1 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.13.57%20PM.png)
 
 ### Figure 2
-Kovan Testnet Network
 
-Fig. 2: The validated chain produces a "true" result
+Fig. 2: Using the setAccounts function
 ![Fig 2 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.31.10%20PM.png)
 
 ### Figure 3
