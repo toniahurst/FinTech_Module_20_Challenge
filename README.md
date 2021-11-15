@@ -14,7 +14,7 @@ fintech_finder home screen
 
 ### Figure 2
 
-Fig. 2: Using the setAccounts function
+Using the setAccounts function
 ![Fig 2 - ](https://github.com/toniahurst/FinTech_Module_20_Challenge/blob/main/Execution_Results/Screen%20Shot%202021-11-14%20at%2010.31.10%20PM.png)
 
 ### Figure 3
